@@ -1,0 +1,99 @@
+{
+  "@timestamp": {
+    "type": "date"
+  },
+  "CD_PROCEDIMENTO": {
+    "type": "keyword"
+  },
+  "CENTRO": {
+    "type": "keyword"
+  },
+  "CENTRO_RECEITA": {
+    "type": "keyword"
+  },
+  "CID": {
+    "type": "keyword"
+  },
+  "CLINICASOLCIITANTE": {
+    "type": "text"
+  },
+  "CLINICA_REC": {
+    "type": "keyword"
+  },
+  "CONVENIO": {
+    "type": "keyword"
+  },
+  "CRM_SOLICITANTE": {
+    "type": "keyword"
+  },
+  "DTNASC": {
+    "type": "date",
+    "format": "dd/MM/yyyy"
+  },
+  "DT_CRIACAO": {
+    "type": "date",
+    "format": "dd/MM/yyyy"
+  },
+  "EQUIPAMENTO": {
+    "type": "keyword"
+  },
+  "ESTADO": {
+    "type": "keyword"
+  },
+  "FILTRO_CONVENIO": {
+    "type": "keyword"
+  },
+  "FIM_EXAME": {
+    "type": "date",
+    "format": "dd/MM/yyyy HH:mm"
+  },
+  "GRUPO": {
+    "type": "keyword"
+  },
+  "INICIO_EXAME": {
+    "type": "date",
+    "format": "dd/MM/yyyy HH:mm"
+  },
+  "INSTITUTOSOLICITANTE": {
+    "type": "keyword"
+  },
+  "MATRICULA": {
+    "type": "keyword"
+  },
+  "MES_EXAME": {
+    "type": "keyword"
+  },
+  "MNEMONICO": {
+    "type": "keyword"
+  },
+  "MODALIDADE": {
+    "type": "keyword"
+  },
+  "MUNICIPIO": {
+    "type": "keyword"
+  },
+  "NREXAME": {
+    "type": "keyword"
+  },
+  "PACIENTE": {
+    "type": "text"
+  },
+  "PROCEDIMENTO": {
+    "type": "keyword"
+  },
+  "RECURSO": {
+    "type": "keyword"
+  },
+  "SEXO": {
+    "type": "keyword"
+  },
+  "TEMPO": {
+    "type": "long"
+  },
+  "TEMPO_HS": {
+    "type": "keyword"
+  },
+  "TIPOPACIENTE": {
+    "type": "keyword"
+  }
+}
